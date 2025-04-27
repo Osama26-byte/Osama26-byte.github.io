@@ -1,9 +1,22 @@
+<table>
+  <tr>
+    <td>
+
 # Hi, I'm Osama Amjad
 
-<p align="center">
-  <img src="mine/IMG_3666.JPG" alt="Osama Amjad" width="150" style="border-radius: 50%;" />
-</p>
+📍 Islamabad, Pakistan  
+📧 [osamamjad26@gmail.com](mailto:osamamjad26@gmail.com)  
+📞 +92 332 4465702  
+🔗 [LinkedIn](https://www.linkedin.com/in/osamaamjad)
 
+</td>
+    <td>
+      <img src="mine/IMG_3666.JPG" alt="Osama Amjad" width="150" style="border-radius: 50%;" />
+    </td>
+  </tr>
+</table>
+
+---
 
 📍 Islamabad, Pakistan  
 📧 [osamamjad26@gmail.com](mailto:osamamjad26@gmail.com)  
