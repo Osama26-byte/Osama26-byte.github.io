@@ -4,7 +4,7 @@
   <tr>
     <td>
 
-<h1>Hi</h1>
+<h1>Hi, I am Osama</h1>
 <p>📍 Islamabad, Pakistan</p>
 <p>✉️ <a href="mailto:osamamjad26@gmail.com">osamamjad26@gmail.com</a></p>
 <p>📞 +92 332 4465702</p>
