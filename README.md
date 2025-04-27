@@ -71,9 +71,6 @@ Focus Areas:
 
 
 
-
-
-
 ---
 
 ### Senior Computer Vision Engineer / Team Lead — VisionRD  
