@@ -80,6 +80,13 @@ Focus Areas:
 - Contributed to **vONErd** and **vFusedSeg3D** model pipelines.
 - Focused on real-time inference and scalability using **TensorRT** and **CUDA** optimizations.
 
+
+<p align="center">
+  <img src="mine/BeFunky-collage.jpg
+" alt="PDrive20K" width="400" style="border: 2px solid #000; border-radius: 10px; padding: 5px;" />
+  &nbsp;&nbsp;&nbsp;
+</p>
+
 ---
 
 ### Computer Vision Engineer — VisionRD  
