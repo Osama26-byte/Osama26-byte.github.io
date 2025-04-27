@@ -79,11 +79,13 @@ Focus Areas:
 - Deployed solutions on **AWS SageMaker**, **EC2**, and **S3**.
 - Supported by organizations like **World Bank**, **HEC Pakistan**, and **Startup Germany (AHK)**.
 
+
 <p align="center">
-  <img src="mine/cert.jpg" alt="Waymo Challenge Certificate" width="500" />
+  <img src="mine/cert.jpg" alt="Waymo Challenge Certificate" width="400" style="border: 2px solid #000; border-radius: 10px; padding: 5px;" />
   &nbsp;&nbsp;&nbsp;
-  <img src="mine/1719218984692.jpeg" alt="CVPR Winner Announcement" width="300" />
+  <img src="mine/1719218984692.jpeg" alt="CVPR Winner Announcement" width="300" style="border: 2px solid #000; border-radius: 10px; padding: 5px;" />
 </p>
+
 
 
 ---
