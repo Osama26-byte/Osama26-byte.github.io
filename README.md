@@ -81,7 +81,7 @@ Focus Areas:
 - Supported by organizations like **World Bank**, **HEC Pakistan**, and **Startup Germany (AHK)**.
 
 <p align="center">
-  <img src="mine/cert.jpg" alt="Waymo Challenge Certificate" width="300" />
+  <img src="mine/cert.jpg" alt="Waymo Challenge Certificate" width="500" />
   &nbsp;&nbsp;&nbsp;
   <img src="mine/1719218984692.jpeg" alt="CVPR Winner Announcement" width="300" />
 </p>
