@@ -59,7 +59,7 @@ Focus Areas:
 - Built **InspectionAI** system for **RapidEV**, inspecting **10-15M PCB units annually**.
 - Created **vRD-OCR**, winning "Most Innovative Project" at **Ready Tensor Expo 2024**, deployed at **Toyota Pakistan**.
 - Introduced **vONErd** inspired by Tesla's unified networks achieving:
-  - 3D/2D Object Detection: **80% mAP**
+  - 3D/2D Object Detection: **93% mAP**
   - Lane Detection: **95.8% F1 Score**
 - Achieved **55ms real-time latency**, surpassing global ADAS benchmarks by 9%.
 - Launched **PDrive20K**, Pakistan’s largest autonomous driving dataset.
