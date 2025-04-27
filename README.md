@@ -11,7 +11,7 @@
 <p>🔗 <a href="https://www.linkedin.com/in/osamaamjad">LinkedIn</a></p>
 
 </td>
-    <td align="center">
+    <td align="right">
       <img src="mine/IMG_3666.JPG" alt="Osama Amjad" width="150" style="border-radius: 50%;" />
     </td>
   </tr>
