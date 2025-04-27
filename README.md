@@ -64,12 +64,19 @@ Focus Areas:
 - Achieved **55ms real-time latency**, surpassing global ADAS benchmarks by 9%.
 - Launched **PDrive20K**, Pakistan’s largest autonomous driving dataset.
 
-<p align="center">
-  <img src="mine/cert.jpg" alt="Waymo Challenge Certificate" width="400" style="border: 2px solid #000; border-radius: 10px; padding: 5px;" />
-  <br>
-  <img src="mine/1719218984692.jpeg" alt="CVPR Winner Announcement" width="300" style="border: 2px solid #000; border-radius: 10px; padding: 5px;" />
-  <br>
+<p align="center" style="display: flex; justify-content: center; gap: 40px; align-items: center;">
+  <div style="text-align: center;">
+    <img src="mine/cert.jpg" alt="Waymo Challenge Certificate" width="400" style="border: 2px solid #000; border-radius: 10px; padding: 5px;" />
+    <br>
+    <em>Certificate of Achievement awarded for securing 3rd place in the Waymo Open Dataset Challenge.</em>
+  </div>
+  <div style="text-align: center;">
+    <img src="mine/1719218984692.jpeg" alt="CVPR Winner Announcement" width="300" style="border: 2px solid #000; border-radius: 10px; padding: 5px;" />
+    <br>
+    <em>Official announcement of acceptance and recognition at CVPR 2024 for outstanding research contributions.</em>
+  </div>
 </p>
+
 
 
 
