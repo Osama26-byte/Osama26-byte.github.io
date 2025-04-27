@@ -18,13 +18,6 @@
 
 ---
 
-📍 Islamabad, Pakistan  
-📧 [osamamjad26@gmail.com](mailto:osamamjad26@gmail.com)  
-📞 +92 332 4465702  
-🔗 [LinkedIn](https://www.linkedin.com/in/osamaamjad)
-
----
-
 ## 🚀 About Me
 
 I'm an AI innovator passionate about building real-world solutions for the OEM (Original Equipment Manufacturers) industry.  
