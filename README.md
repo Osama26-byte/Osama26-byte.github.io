@@ -1,7 +1,8 @@
 # Hi, I'm Osama Amjad
 
-![Alt Text](mine/IMG_3666.JPG)
-
+<p align="center">
+  <img src="mine/IMG_3666.JPG" alt="Osama Amjad Banner" width="100%" />
+</p>
 
 📍 Islamabad, Pakistan  
 📧 [osamamjad26@gmail.com](mailto:osamamjad26@gmail.com)  
