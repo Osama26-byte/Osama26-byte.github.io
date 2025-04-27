@@ -1,5 +1,8 @@
 # Hi, I'm Osama Amjad
 
+![Alt Text](mine/IMG_3666.JPG)
+
+
 📍 Islamabad, Pakistan  
 📧 [osamamjad26@gmail.com](mailto:osamamjad26@gmail.com)  
 📞 +92 332 4465702  
