@@ -80,6 +80,13 @@ Focus Areas:
 - Deployed solutions on **AWS SageMaker**, **EC2**, and **S3**.
 - Supported by organizations like **World Bank**, **HEC Pakistan**, and **Startup Germany (AHK)**.
 
+<p align="center">
+  <img src="mine/Certificate of Achievement – 2024 Waymo Open Dataset Challenges – 3D SemSeg 3 (1).pdf" alt="Waymo Challenge Certificate" width="300" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="mine/1719218984692.jpeg" alt="CVPR Winner Announcement" width="300" />
+</p>
+
+
 ---
 
 ## 📚 Publications
