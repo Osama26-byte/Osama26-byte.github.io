@@ -67,11 +67,11 @@ Focus Areas:
 <p align="center">
   <img src="mine/cert.jpg" alt="Waymo Challenge Certificate" width="400" style="border: 2px solid #000; border-radius: 10px; padding: 5px;" />
   <br>
-  <em>Certificate of Achievement awarded for securing 3rd place in the Waymo Open Dataset Challenge.</em>
+  <em>Certificate of Achievement</em>
   &nbsp;&nbsp;&nbsp;
   <img src="mine/1719218984692.jpeg" alt="CVPR Winner Announcement" width="300" style="border: 2px solid #000; border-radius: 10px; padding: 5px;" />
   <br>
-  <em>Official announcement of acceptance and recognition at CVPR 2024 for outstanding research contributions.</em>
+  <em>CVPR 2024 Winner</em>
 </p>
 
 
@@ -87,13 +87,14 @@ Focus Areas:
 
 
 <p align="center">
-  <img src="mine/BeFunky-collage.jpg" alt="PDrive20K" width="600" style="border: 2px solid #000; border-radius: 10px; padding: 5px;" />
+  <img src="mine/vonerd.png" alt="vonerd Arch" width="600" style="border: 2px solid #000; border-radius: 10px; padding: 5px;" />
   &nbsp;&nbsp;&nbsp;
 </p>
-
+<em>vONErd Arch</em>
 <p align="center">
   <img src="mine/BeFunky-collage.jpg" alt="PDrive20K" width="600" style="border: 2px solid #000; border-radius: 10px; padding: 5px;" />
   &nbsp;&nbsp;&nbsp;
+   <em>PDrive20k.</em>
 </p>
 
 ---
