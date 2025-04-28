@@ -1,39 +1,46 @@
-<div align="center">
 
-<table>
-  <tr>
-    <td>
+<table width="100%">
+<tr>
 
-<h1>Hi, I am Osama</h1>
+<!-- Image Side -->
+<td width="30%" align="center" valign="top">
+<img src="mine/IMG_3666.JPG" alt="Osama Amjad" width="220" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);">
+</td>
+
+<!-- Text Side -->
+<td width="70%" align="left" valign="top">
+
+<h1>Hi, I’m <span style="color:#00BFFF;">Osama Amjad</span> 👋</h1>
+
+<h3>Head of AI & R&D @ <strong><span style="color:#00BFFF;">VisionRD</span></strong> | Computer Vision Specialist</h3>
+
+<br>
+
 <p>📍 Islamabad, Pakistan</p>
-<p>✉️ <a href="mailto:osamamjad26@gmail.com">osamamjad26@gmail.com</a></p>
-<p>📞 +92 332 4465702</p>
-<p>🔗 <a href="https://www.linkedin.com/in/osamaamjad">LinkedIn</a></p>
+
+<p>
+📞 +92 332 4465702 &nbsp;|&nbsp;
+✉️ <a href="mailto:osamamjad26@gmail.com">osamamjad26@gmail.com</a> &nbsp;|&nbsp;
+🔗 <a href="https://www.linkedin.com/in/osamaamjad" target="_blank">LinkedIn Profile</a>
+</p>
 
 </td>
-    <td align="right">
-      <img src="mine/IMG_3666.JPG" alt="Osama Amjad" width="150" style="border-radius: 50%;" />
-    </td>
-  </tr>
+
+</tr>
 </table>
-
-</div>
-
----
 
 
 ## 🚀 About Me
 
-I'm an AI innovator passionate about building real-world solutions for the OEM (Original Equipment Manufacturers) industry.  
-I've contributed to projects that transformed the technology landscape for major automotive brands like **Toyota, Haval, Changan, and Thal Engineering**.
+I'm an AI innovator passionate about building **real-world solutions for the OEM (Original Equipment Manufacturers) industry**. <br>
+At VisionRD, I've contributed to projects that redefined the technology landscape for major automotive brands like **Toyota**, **Haval**, **Changan**, and **Thal Engineering**.
 
-Focus Areas:
+Focus Areas
+-  **Advanced AI/ML Research**, Model Development, and Deployment
+-  **Autonomous Systems Engineering** tailored to real-world challenges
+-  **Leadership and Mentoring** teams toward impactful results
 
-- Advanced AI/ML model research, development, and deployment
-- Autonomous systems tailored to real-world challenges
-- Leadership and mentoring teams toward impactful results
-
-> I thrive at the intersection of **innovation** and **execution**, pushing boundaries to create tangible impact.
+> *"I thrive at the intersection of **innovation** and **execution**, pushing boundaries to create tangible impact."*
 
 ---
 
