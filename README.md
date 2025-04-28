@@ -3,8 +3,8 @@
 <tr>
 
 <!-- Image Side -->
-<td width="30%" align="center" valign="top">
-<img src="mine/IMG_3666.JPG" alt="Osama Amjad" width="220" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);">
+<td width="30%" align="center" >
+<img src="mine/IMG_3666.JPG" alt="Osama Amjad" width="220" ">
 </td>
 
 <!-- Text Side -->
