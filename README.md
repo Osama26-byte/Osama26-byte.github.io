@@ -10,7 +10,7 @@
 <!-- Text Side -->
 <td width="70%" align="left" valign="top">
 
-<h1>Hi, I’m Osama</span> 👋</h1>
+<h1>Hi, I’m Osama👋</h1>
 
 <h3>Head of AI & R&D @ <strong>VisionRD</strong> | Computer Vision Specialist</h3>
 
