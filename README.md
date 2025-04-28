@@ -4,7 +4,7 @@
 
 <!-- Image Side -->
 <td width="30%" align="center" >
-<img src="mine/IMG_3666.JPG" alt="Osama Amjad" width="220" ">
+<img src="mine/IMG_3666.JPG" alt="Osama Amjad">
 </td>
 
 <!-- Text Side -->
