@@ -4,7 +4,7 @@
 
 <!-- Image Side -->
 <td width="30%" align="center" >
-<img src="mine/IMG_3666.JPG" alt="Osama Amjad">
+<img src="mine/IMG_3666.JPG" width="230" alt="Osama Amjad">
 </td>
 
 <!-- Text Side -->
@@ -143,3 +143,6 @@ Focus Areas
 ## 📈 Let's Connect!
 
 I'm always open to collaborations, innovative projects, and knowledge-sharing opportunities! Feel free to connect! 🚀
+
+
+
