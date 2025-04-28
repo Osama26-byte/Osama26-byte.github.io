@@ -10,9 +10,9 @@
 <!-- Text Side -->
 <td width="70%" align="left" valign="top">
 
-<h1>Hi, I’m <span style="color:#00BFFF;">Osama Amjad</span> 👋</h1>
+<h1>Hi, I’m Osama</span> 👋</h1>
 
-<h3>Head of AI & R&D @ <strong><span style="color:#00BFFF;">VisionRD</span></strong> | Computer Vision Specialist</h3>
+<h3>Head of AI & R&D @ <strong>VisionRD</strong> | Computer Vision Specialist</h3>
 
 <br>
 
